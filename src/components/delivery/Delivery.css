@@ -1,0 +1,24 @@
+.delivery-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.delivery-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px; 
+}
+
+.delivery-text {
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-right: 250px;
+    font-size: 18px; 
+    color: #333; 
+    line-height: 1.6; 
+}
+
+.delivery-list {
+    margin-top: 20px;
+    font-size: 18px; 
+}
